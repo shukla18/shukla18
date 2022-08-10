@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 This is dev branch.
 
 Now adding a comment from web version
+
+And another comment from Visual Studio

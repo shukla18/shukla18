@@ -14,3 +14,5 @@ This is dev branch.
 Now adding a comment from web version
 
 And another comment from Visual Studio
+
+Now will try to update via VS and command line

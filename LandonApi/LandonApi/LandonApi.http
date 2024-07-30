@@ -1,0 +1,6 @@
+@LandonApi_HostAddress = http://localhost:5185
+
+GET {{LandonApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

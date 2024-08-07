@@ -24,3 +24,13 @@ D:\git\shukla18\LandonApi\LandonApi\obj\Debug\net8.0\refint\LandonApi.dll
 D:\git\shukla18\LandonApi\LandonApi\obj\Debug\net8.0\LandonApi.pdb
 D:\git\shukla18\LandonApi\LandonApi\obj\Debug\net8.0\LandonApi.genruntimeconfig.cache
 D:\git\shukla18\LandonApi\LandonApi\obj\Debug\net8.0\ref\LandonApi.dll
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\Asp.Versioning.Http.dll
+D:\git\shukla18\LandonApi\LandonApi\obj\Debug\net8.0\LandonApi.csproj.AssemblyReference.cache
+D:\git\shukla18\LandonApi\LandonApi\obj\Debug\net8.0\LandonApi.csproj.Up2Date
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git\shukla18\LandonApi\LandonApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

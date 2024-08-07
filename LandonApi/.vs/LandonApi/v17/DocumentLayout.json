@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "D:\\git\\shukla18\\LandonApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\repository\\hotelapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\repository\\hotelapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\models\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\models\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\controllers\\rootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\controllers\\rootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\models\\hoteinfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\models\\hoteinfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\filters\\jsonexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\filters\\jsonexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\models\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\models\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|d:\\git\\shukla18\\landonapi\\landonapi\\landonapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3B7CC806-1FA0-4671-B32A-5B03637D8825}|LandonApi\\LandonApi.csproj|solutionrelative:landonapi\\landonapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +78,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
               "$type": "Bookmark",
@@ -62,67 +94,201 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RoomController.cs",
-              "RelativeDocumentMoniker": "LandonApi\\Controllers\\RoomController.cs",
-              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RoomController.cs",
-              "RelativeToolTip": "LandonApi\\Controllers\\RoomController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:50:26.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RootController.cs",
-              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RootController.cs",
-              "RelativeDocumentMoniker": "LandonApi\\Controllers\\RootController.cs",
-              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RootController.cs",
-              "RelativeToolTip": "LandonApi\\Controllers\\RootController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Repository\\SeedData.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Repository\\SeedData.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Repository\\SeedData.cs",
+              "RelativeToolTip": "LandonApi\\Repository\\SeedData.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:32:40.592Z",
+              "WhenOpened": "2024-07-30T18:30:27.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Program.cs",
-              "RelativeDocumentMoniker": "LandonApi\\Program.cs",
-              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Program.cs",
-              "RelativeToolTip": "LandonApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Models\\Room.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\Room.cs",
+              "RelativeToolTip": "LandonApi\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:31:20.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "LandonApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "LandonApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T06:29:02.04Z",
+              "WhenOpened": "2024-07-30T18:28:41.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "RoomEntity.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\RoomEntity.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Models\\RoomEntity.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\RoomEntity.cs",
+              "RelativeToolTip": "LandonApi\\Models\\RoomEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:27:48.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelApiDbContext.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Repository\\HotelApiDbContext.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Repository\\HotelApiDbContext.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Repository\\HotelApiDbContext.cs",
+              "RelativeToolTip": "LandonApi\\Repository\\HotelApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:19:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Controllers\\InfoController.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "LandonApi\\Controllers\\InfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:06:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HoteInfomation.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\HoteInfomation.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Models\\HoteInfomation.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\HoteInfomation.cs",
+              "RelativeToolTip": "LandonApi\\Models\\HoteInfomation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:56:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Models\\Resource.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\Resource.cs",
+              "RelativeToolTip": "LandonApi\\Models\\Resource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:52:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LandonApi.http",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\LandonApi.http",
+              "RelativeDocumentMoniker": "LandonApi\\LandonApi.http",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\LandonApi.http",
+              "RelativeToolTip": "LandonApi\\LandonApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-30T14:15:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LandonApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LandonApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T14:13:25.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\appsettings.json",
               "RelativeDocumentMoniker": "LandonApi\\appsettings.json",
               "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\appsettings.json",
               "RelativeToolTip": "LandonApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T06:28:55.018Z",
+              "WhenOpened": "2024-07-30T14:13:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JsonExceptionFilter.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Filters\\JsonExceptionFilter.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Filters\\JsonExceptionFilter.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Filters\\JsonExceptionFilter.cs",
+              "RelativeToolTip": "LandonApi\\Filters\\JsonExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:56:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiError.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\ApiError.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Models\\ApiError.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Models\\ApiError.cs",
+              "RelativeToolTip": "LandonApi\\Models\\ApiError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:55:47.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "LandonApi\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:25:48.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RootController.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RootController.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Controllers\\RootController.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Controllers\\RootController.cs",
+              "RelativeToolTip": "LandonApi\\Controllers\\RootController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:25:07.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Program.cs",
+              "RelativeDocumentMoniker": "LandonApi\\Program.cs",
+              "ToolTip": "D:\\git\\shukla18\\LandonApi\\LandonApi\\Program.cs",
+              "RelativeToolTip": "LandonApi\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:13:54.827Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LandonApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c932b7748b3b30c0c36559c1b863f7dc737a584")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf6309c64a7dc0b56f8d0101a7dafbd425f542a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LandonApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LandonApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

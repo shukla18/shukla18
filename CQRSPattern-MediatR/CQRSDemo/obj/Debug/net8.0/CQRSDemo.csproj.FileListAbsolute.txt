@@ -1,0 +1,159 @@
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\efpt.config.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.exe
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.deps.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.runtimeconfig.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.pdb
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.csproj.AssemblyReference.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.AssemblyInfoInputs.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.AssemblyInfo.cs
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.CQRSDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.CQRSDemo.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CQRSDemo.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CQRSDemo.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\scopedcss\bundle\CQRSDemo.styles.css
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.csproj.Up2Date
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\refint\CQRSDemo.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.pdb
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.genruntimeconfig.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\ref\CQRSDemo.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\MediatR.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\appsettings.Development.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\appsettings.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\efpt.config.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.exe
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.deps.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.runtimeconfig.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\CQRSDemo.pdb
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Azure.Core.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Azure.Identity.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\MediatR.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Memory.Data.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.csproj.AssemblyReference.cache
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.AssemblyInfoInputs.cache
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.AssemblyInfo.cs
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.csproj.CoreCompileInputs.cache
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.sourcelink.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.CQRSDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.CQRSDemo.props
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CQRSDemo.props
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CQRSDemo.props
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\scopedcss\bundle\CQRSDemo.styles.css
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.csproj.Up2Date
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\refint\CQRSDemo.dll
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.pdb
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\CQRSDemo.genruntimeconfig.cache
+D:\git\shukla18\CQRSPattern-MediatR\CQRSDemo\obj\Debug\net8.0\ref\CQRSDemo.dll

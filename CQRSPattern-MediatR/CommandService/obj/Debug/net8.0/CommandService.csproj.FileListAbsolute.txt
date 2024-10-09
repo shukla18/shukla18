@@ -1,0 +1,426 @@
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\appsettings.Development.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\appsettings.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\efpt.config.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\CommandService.exe
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\CommandService.deps.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\CommandService.runtimeconfig.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\CommandService.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\CommandService.pdb
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Azure.Core.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Azure.Identity.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\MediatR.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.Memory.Data.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.AssemblyInfo.cs
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cs
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\staticwebassets.build.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\staticwebassets.development.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\staticwebassets\msbuild.CommandService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\staticwebassets\msbuild.build.CommandService.props
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CommandService.props
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CommandService.props
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\staticwebassets.pack.json
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\scopedcss\bundle\CommandService.styles.css
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandS.7DAE046B.Up2Date
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\refint\CommandService.dll
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.pdb
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\CommandService.genruntimeconfig.cache
+E:\OneDrive\OneDrive - Dot Net Tricks Innovation Pvt. Ltd\Desktop\CQRS-Pattern\CQRS-Pattern\obj\Debug\net8.0\ref\CommandService.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\appsettings.Development.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\appsettings.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\efpt.config.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\CommandService.exe
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\CommandService.deps.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\CommandService.runtimeconfig.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\CommandService.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\CommandService.pdb
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Azure.Core.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Azure.Identity.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\MediatR.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.csproj.AssemblyReference.cache
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.AssemblyInfoInputs.cache
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.AssemblyInfo.cs
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.csproj.CoreCompileInputs.cache
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cs
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cache
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.sourcelink.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\staticwebassets.build.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\staticwebassets.development.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.CommandService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.build.CommandService.props
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CommandService.props
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CommandService.props
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\scopedcss\bundle\CommandService.styles.css
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandS.7DAE046B.Up2Date
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\refint\CommandService.dll
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.pdb
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\CommandService.genruntimeconfig.cache
+E:\Github\microservices-dotnet\CQRS-PatternMediaTr\CommandService\obj\Debug\net8.0\ref\CommandService.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\efpt.config.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\appsettings.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.exe
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.deps.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.runtimeconfig.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.pdb
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\MediatR.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.csproj.AssemblyReference.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.AssemblyInfoInputs.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.AssemblyInfo.cs
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.csproj.CoreCompileInputs.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.CommandService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.build.CommandService.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CommandService.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CommandService.props
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\scopedcss\bundle\CommandService.styles.css
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandS.7DAE046B.Up2Date
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\refint\CommandService.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.pdb
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.genruntimeconfig.cache
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\ref\CommandService.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shantanu Shukla\Downloads\CommunicationServiceBus20241006133105\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\appsettings.Development.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\appsettings.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\efpt.config.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.exe
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.deps.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.runtimeconfig.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\CommandService.pdb
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Azure.Core.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Azure.Identity.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Humanizer.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\MediatR.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.CodeDom.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Memory.Data.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.csproj.AssemblyReference.cache
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.AssemblyInfoInputs.cache
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.AssemblyInfo.cs
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.csproj.CoreCompileInputs.cache
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cs
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.MvcApplicationPartsAssemblyInfo.cache
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.sourcelink.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets.build.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets.development.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.CommandService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.build.CommandService.props
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CommandService.props
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CommandService.props
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\scopedcss\bundle\CommandService.styles.css
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandS.7DAE046B.Up2Date
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\refint\CommandService.dll
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.pdb
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\CommandService.genruntimeconfig.cache
+D:\git\shukla18\CQRSPattern-MediatR\CommandService\obj\Debug\net8.0\ref\CommandService.dll

@@ -12,8 +12,7 @@ Engineering leader with 17+ years in enterprise product development, specialisin
 
 💼 **EXPERIENCE**
 
-**Freelance Coach & Trainer**  
-**HVS Digital Creations**  
+**Freelance Coach & Trainer**   
 _Aug 2024 – present_
 
 - Delivering training on .NET 8/.Net Core / Azure
